@@ -1,3 +1,3 @@
 # web_scraping_with_python
 
-early practice of web scraping in python
+early practice of web scraping in python (in progress)
